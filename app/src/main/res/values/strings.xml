@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThreePointsCircle</string>
+    <string name="hint_point_x">X-line</string>
+    <string name="hint_point_y">Y-line</string>
+    <string name="first_point">First Point</string>
+    <string name="second_point">Second Point</string>
+    <string name="third_point">Third Point</string>
+    <string name="enter_text">Input coordinates of three points of circle</string>
+
+</resources>
